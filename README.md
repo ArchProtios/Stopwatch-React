@@ -1,3 +1,6 @@
+![Screenshot 2024-03-11 194139](https://github.com/ArchProtios/Stopwatch-React/assets/99127122/2b10631b-d15b-47e9-8733-6008bcb29682)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
